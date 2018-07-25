@@ -15,6 +15,15 @@ Master the fundamentals of Deep Learning and implement the ideas learnt in [Tens
 ## Course Syllabus and Schedule (Tentative)
 
 | Lecture         | Contents                                                                   | Readings|
-| --------------- |:-------------------------------------------------------------------------- |:-------|
+| --------------- |:-------------------------------------------------------------------------- |:--------|
 | Week 1 (25 July)| Introduction; Logistics; Linear Algebra; Probability & Information Theory  | Ch [01](http://www.deeplearningbook.org/contents/intro.html), [02](http://www.deeplearningbook.org/contents/linear_algebra.html), [03](http://www.deeplearningbook.org/contents/prob.html)|
 | Week 2          | Numerical Computation; Machine Learning Basics | Ch [04](http://www.deeplearningbook.org/contents/numerical.html), [05](http://www.deeplearningbook.org/contents/ml.html)|
+
+## Course Credit Assignment
+
+| Content                           | Weightage |
+|-----------------------------------|-----------|
+| Project                           | 50 %      |
+| End Term Exam                     | 25 %      |
+| In-class Quiz; Class Participation| 15 %      |
+| Mid Term Exam                     | 10 %      |   
