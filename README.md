@@ -23,7 +23,8 @@ Master the fundamentals of Deep Learning and implement the ideas learnt in [Tens
 
 | Content                           | Weightage |
 |-----------------------------------|-----------|
-| Project                           | 50 %      |
-| End Term Exam                     | 25 %      |
-| In-class Quiz; Class Participation| 15 %      |
+| Project                           | 45 %      |
+| End Term Exam                     | 20 %      |
+| Assignments                       | 15 %      |
+| In-class Quiz; Class Participation| 10 %      |
 | Mid Term Exam                     | 10 %      |   
