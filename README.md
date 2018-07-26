@@ -1,6 +1,8 @@
 # ell-881-2018-deep-learning
 ELL 881 2018: Fundamentals of Deep Learning
 
+**Instructors**: [Raghavendra Singh](https://researcher.watson.ibm.com/researcher/view.php?person=in-raghavsi) @raghavsi & [Vineet Kumar](https://www.linkedin.com/in/vineetmundhra/) @vineetm
+
 ## Course Objectives
 Master the fundamentals of Deep Learning and implement the ideas learnt in [Tensorflow](https://www.tensorflow.org).
 
