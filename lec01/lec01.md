@@ -14,3 +14,14 @@
 
 #### Tensorflow
 Please install [Tensorflow v1.9](https://www.tensorflow.org/install/). We recommend installation using Docker or Conda environment
+
+* I will post here exact steps I tried to install tensorflow on Mac using conda
+  * First, [install anaconda](https://www.anaconda.com/download/#macos)
+  * Create a conda environment, activate it and install tensorflow
+
+    ```
+    conda create -n tf python=3.6
+    source activate tf
+    pip install tensorflow==1.9
+    ```
+  * Note, as of this post python=3.7 *does not work* with tensorflow
