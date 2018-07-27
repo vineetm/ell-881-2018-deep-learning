@@ -32,6 +32,6 @@ Master the fundamentals of Deep Learning and implement the ideas learnt in [Tens
 | Mid Term Exam                     | 10 %      |   
 
 
-## Course Updates (Latest)
+## Course Page Updates
 * 27 July 2018: [Lec 01](lec01) materials are up. Refer to [notes](lec01/lec01.md) for more resources on Python & Linear Algebra.
 * 26 July 2018: Course site is up!
