@@ -6,6 +6,7 @@
 
 
 #### Linear Algebra Resources
+* [Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 
 * [Khan Academy](https://www.khanacademy.org/math/linear-algebra): A great series of short videos on key concepts on linear algebra
 
