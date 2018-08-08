@@ -23,6 +23,6 @@ Please install [Tensorflow v1.9](https://www.tensorflow.org/install/). We recomm
     ```
     conda create -n tf python=3.6
     source activate tf
-    (tf) pip install -r requirements.txt
+    (tf) pip install -r ../requirements.txt
     ```
   * Note, as of this post python=3.7 *does not work* with tensorflow
