@@ -22,7 +22,7 @@ Master the fundamentals of Deep Learning and implement the ideas learnt in [Tens
 | --------------- |:-------------------------------------------------------------------------- |:--------|
 | Week 1 (27 July)| Introduction; Logistics; Linear Algebra; Probability & Information Theory  | Ch [01](http://www.deeplearningbook.org/contents/intro.html), [02](http://www.deeplearningbook.org/contents/linear_algebra.html), [03](http://www.deeplearningbook.org/contents/prob.html)|
 | Week 2 (03 Aug) | Numerical Computation; Machine Learning Basics | Ch [04](http://www.deeplearningbook.org/contents/numerical.html), [05](http://www.deeplearningbook.org/contents/ml.html)|
-| Week 3 (10 Aug) | Deep Feedforward Networks | |
+| Week 3 (08 Aug) | Deep Feedforward Networks | Ch [06](http://www.deeplearningbook.org/contents/mlp.html)|
 
 ## Course Credit Assignment (Tentative)
 
@@ -36,6 +36,7 @@ Master the fundamentals of Deep Learning and implement the ideas learnt in [Tens
 
 
 ## Course Page Updates
-* 05 Aug 2018 [Lec02](lec02) materials are up.
+* 08 Aug 2018: Posted readings for Week 03.
+* 05 Aug 2018: [Lec02](lec02) materials are up.
 * 27 July 2018: [Lec 01](lec01) materials are up. Refer to [notes](lec01/lec01.md) for more resources on Python & Linear Algebra.
 * 26 July 2018: Course site is up!
