@@ -36,6 +36,6 @@ Master the fundamentals of Deep Learning and implement the ideas learnt in [Tens
 
 
 ## Course Page Updates
-* 05 Aug 2018 [Lec02] (lec02) materials are up.
+* 05 Aug 2018 [Lec02](lec02) materials are up.
 * 27 July 2018: [Lec 01](lec01) materials are up. Refer to [notes](lec01/lec01.md) for more resources on Python & Linear Algebra.
 * 26 July 2018: Course site is up!
