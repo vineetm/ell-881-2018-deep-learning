@@ -22,7 +22,9 @@ Master the fundamentals of Deep Learning and implement the ideas learnt in [Tens
 | --------------- |:-------------------------------------------------------------------------- |:--------|
 | Lec 01 (27 July)| Introduction; Logistics; Linear Algebra; Probability & Information Theory  | Ch [01](http://www.deeplearningbook.org/contents/intro.html), [02](http://www.deeplearningbook.org/contents/linear_algebra.html), [03](http://www.deeplearningbook.org/contents/prob.html)|
 | Lec 02 (03 Aug) | Numerical Computation; Machine Learning Basics | Ch [04](http://www.deeplearningbook.org/contents/numerical.html), [05](http://www.deeplearningbook.org/contents/ml.html)|
-| Lec 03a (08 Aug) | Deep Feedforward Networks | Ch [06](http://www.deeplearningbook.org/contents/mlp.html)|
+| Lec 03a (08 Aug)| Deep Feedforward Networks | Ch [06](http://www.deeplearningbook.org/contents/mlp.html)|
+| Lec 03b (10 Aug)| Computational Graphs; Backprop|Ch [06](http://www.deeplearningbook.org/contents/mlp.html)|
+| Lec 04a (17 Aug)| TBA|
 
 ## Course Credit Assignment (Tentative)
 
@@ -36,6 +38,7 @@ Master the fundamentals of Deep Learning and implement the ideas learnt in [Tens
 
 
 ## Course Page Updates
+* 10 Aug 2018: [Lec03b](lec03b) materials are up! Next class is on Aug 17.
 * 08 Aug 2018: [Lec03a](lec03a) materials are up!
 * 08 Aug 2018: Posted readings for Week 03.
 * 05 Aug 2018: [Lec02](lec02) materials are up.
