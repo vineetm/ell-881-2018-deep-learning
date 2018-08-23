@@ -1,4 +1,5 @@
-numpy
 jupyter
-tensorflow==1.9
 matplotlib
+nltk
+numpy
+tensorflow==1.9
