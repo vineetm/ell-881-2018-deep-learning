@@ -2,4 +2,6 @@ jupyter
 matplotlib
 nltk
 numpy
+scipy
+sklearn
 tensorflow==1.9
