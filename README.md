@@ -42,6 +42,7 @@ Master the fundamentals of Deep Learning and implement the ideas learnt in [Tens
 
 
 ## Course Page Updates
+* 03 Sep 2018: [Lec05a](lec05a) starter notebooks and [data](data) is up! Please sync your repo before class!
 * 10 Aug 2018: [Lec03b](lec03b) materials are up! Next class is on Aug 17.
 * 08 Aug 2018: [Lec03a](lec03a) materials are up!
 * 08 Aug 2018: Posted readings for Week 03.
