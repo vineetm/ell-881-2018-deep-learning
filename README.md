@@ -42,6 +42,7 @@ Master the fundamentals of Deep Learning and implement the ideas learnt in [Tens
 
 
 ## Course Page Updates
+* 08 Sep 2018: [lec05b](lec05b) filled notebook is up for tf.data Exercises done in the class. [Bonus Assignment](https://github.com/vineetm/ell-881-2018-deep-learning/issues/9) is up!
 * 08 Sep 2018: [lec05b](lec05b) notebooks are up. Please sync repo before class!
 * 05 Sep 2018: [Assignment 2](https://github.com/vineetm/ell-881-2018-deep-learning/issues/6) is up! [Lec05a](lec05a) notebooks are updated. Read [note on OrderedDict](https://github.com/vineetm/ell-881-2018-deep-learning/issues/7) 
 * 03 Sep 2018: [Lec05a](lec05a) starter notebooks and [data](data) is up! Please sync your repo before class!
