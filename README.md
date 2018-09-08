@@ -26,9 +26,9 @@ Master the fundamentals of Deep Learning and implement the ideas learnt in [Tens
 | Lec 03b (10 Aug)| Computational Graphs; Backprop|Ch [06](http://www.deeplearningbook.org/contents/mlp.html)|
 | Lec 04a (29 Aug)| Tensorflow, Regularization| |
 | Lec 04b (31 Aug)| Regularization | |
-| Lec 05a (05 Sep)| NLP Basics, NLP data pipeline | |
+| Lec 05a (05 Sep)| NLP Basics, NLP data pipeline|[Stanford CS230 Blog](https://cs230-stanford.github.io/tensorflow-input-data.html) |
 | Lec 05b (07 Sep)| Word2Vec| [Paper](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf),[Blog](http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/)|
-| Lec 05c (08 Sep)| RNN Basics, Language Modeling| Ch [10](http://www.deeplearningbook.org/contents/rnn.html)|
+| Lec 06a (12 Sep)| Word2Vec (Contd.) RNN Basics, Language Modeling| Ch [10](http://www.deeplearningbook.org/contents/rnn.html)|
 
 ## Course Credit Assignment (Tentative)
 
