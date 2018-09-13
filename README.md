@@ -42,6 +42,7 @@ Master the fundamentals of Deep Learning and implement the ideas learnt in [Tens
 
 
 ## Course Page Updates
+* 13 Sep 2018: [lec06a](lec06a) notebooks have been updated with checkpoint, perplexity, dropout. Project details added!
 * 13 Sep 2018: [lec06a](lec06a) notebook has been updated with links to LSTM blog and data tx image. Added PDF!
 * 12 Sep 2018: [Project1](project1/project1.md) initial description is up! 
 * 11 Sep 2018: [lec06a](lec06a) notebook is up! Please download data as listed in P4 section of the notebook!
