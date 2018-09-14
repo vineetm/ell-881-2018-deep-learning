@@ -8,6 +8,11 @@
 
 * Implement your code in tf.eager, use tf.keras.Model to build components of your model, as shown in RNN notebook
 
+
+* **Deadline to Submit Project: 08 Oct, 02 PM**
+
+* We will announce submission instructions later...
+
 ### Project Details
 
 #### Tasks to be implemented:
