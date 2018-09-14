@@ -34,7 +34,7 @@ See tips for speeding up data pipeline [here](https://cs230-stanford.github.io/t
 2. Restrict SRC Vocab to 30,000 words. Pick most frequently occuring words across all datasets 
 3. Use word embedding dimension as 256 and GRU cell dimension as 512.
 4. Compare your models with and without dropout (0.3)
-5. Use Adam optimizer with learning rate of 0.0002
+5. Use Adam optimizer with learning rate of 0.002
 6. Use batch size of 32
 7. Rest of the parameters should be used as mentioned in  
 
