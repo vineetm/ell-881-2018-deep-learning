@@ -31,7 +31,6 @@ Master the fundamentals of Deep Learning and implement the ideas learnt in [Tens
 | Lec 06a (12 Sep)| Word2Vec (Contd.) RNN Basics, Language Modeling| Ch [10](http://www.deeplearningbook.org/contents/rnn.html)|
 | Lec 06b (14 Sep)| RNN (Contd.), Perplexity, Gradient Clipping, Checkpointing, Project 1| Ch [10](http://www.deeplearningbook.org/contents/rnn.html)|
 | Project 1 START| 14 Sep 2018, 05 pm | [Project1](project1/project1.md)|
-| Minor 2 (06 Oct, Sat)| Venue: LH 325, 1-2 PM |
 | Project 1 END | 12 Oct 2018, 01 PM |
 
 ## Course Credit Assignment (Tentative)
