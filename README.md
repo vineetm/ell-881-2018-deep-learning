@@ -32,6 +32,11 @@ Master the fundamentals of Deep Learning and implement the ideas learnt in [Tens
 | Lec 06b (14 Sep)| RNN (Contd.), Perplexity, Gradient Clipping, Checkpointing, Project 1| Ch [10](http://www.deeplearningbook.org/contents/rnn.html)|
 | Project 1 START| 14 Sep 2018, 05 pm | [Project1](project1/project1.md)|
 | Project 1 END | 12 Oct 2018, 01 PM |
+| 02 & 09 Nov | Project 1 In-Class Viva|
+| 11 Nov | Mandatory submission of current version of Project 2| 
+| 14 Nov | Lecture on GANs|
+| 18 Nov | Project 2 End. Try to submit by 16th night (before majors)|
+| 26-28 Nov | Project2 Viva on one of these days (TBA)|
 
 ## Course Credit Assignment (Tentative)
 
